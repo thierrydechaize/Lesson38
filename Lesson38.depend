@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1368122447 source:c:\src\opengl\lesson38\lesson38.c
+	<windows.h>
+	<stdlib.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glext.h>
+	<stdbool.h>
+	<stdbool.h>
+	"NeHeGL.h"
+	"resource.h"
+
+1367999400 c:\src\opengl\lesson38\nehegl.h
+	<windows.h>
+
+1038183334 c:\src\opengl\lesson38\resource.h
+
+1422202685 source:c:\src\opengl\lesson38\lesson38.rc
+	<windows.h>
+	"resource.h"
+	<winver.h>
+
+1420389981 source:c:\src\opengl\lesson38\nehegl.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl\glext.h>
+	<stdbool.h>
+	<stdbool.h>
+	"NeHeGL.h"
+
